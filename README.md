@@ -1,2 +1,3 @@
 # learning
-learning first time github
+Learning github for first time
+by Mohit Kumar
